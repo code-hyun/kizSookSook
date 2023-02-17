@@ -1,5 +1,5 @@
 package com.kiz.app;
 
-public class Action {
-
+public interface Action {
+	
 }
